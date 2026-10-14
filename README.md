@@ -61,16 +61,16 @@ A mobile application focused on tracking expenses and managing personal finances
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md0927&show_icons=true&theme=tokyonight&hide_border=true)
+## 📈 GitHub Contributions
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/md0927)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md0927&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/md0927)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=md0927&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md0927&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 
 
 ## 🤝 Connect With Me
