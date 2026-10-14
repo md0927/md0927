@@ -65,7 +65,7 @@ A mobile application focused on tracking expenses and managing personal finances
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdani25&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mdani25&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdani25&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdani25&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -73,7 +73,7 @@ A mobile application focused on tracking expenses and managing personal finances
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdani25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdani25&theme=tokyonight&no-frame=true&no-bg=true&column=4)
 
 ---
 
