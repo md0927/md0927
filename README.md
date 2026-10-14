@@ -71,11 +71,7 @@ A mobile application focused on tracking expenses and managing personal finances
 
 ---
 
-## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdani25&theme=tokyonight&no-frame=true&no-bg=true&column=4)
-
----
 
 ## 🤝 Connect With Me
 
